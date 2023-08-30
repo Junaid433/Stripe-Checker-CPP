@@ -9,14 +9,11 @@ You need your own secret keys from stripe to check cards.
 
 ## Compile:
   ### Linux:
-    ```
     gcc -o main main.cpp -lcurl -lstdc++ -pthread
-    ```
   ### Windows:
-    ```
     (Please use Visual Studio in Windows)
     cl -o main main.cpp -lcurl -lstdc++ -pthread
-    ```
+    
 ## Configuration:
 ```
 (You must edit config.json as checker highly depends on it)
