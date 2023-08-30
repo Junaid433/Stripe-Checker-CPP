@@ -37,9 +37,9 @@ If amount is <1 then charge output will be 0$
 
 ## Support:
  
-  Telegram (https://t.me/fakehecker)
+  [Telegram](https://t.me/fakehecker)
 
-  Facebook (https://facebook.com/jnaid.rahman.im)
+  [Facebook](https://facebook.com/jnaid.rahman.im)
 
   Open issues on github
 
