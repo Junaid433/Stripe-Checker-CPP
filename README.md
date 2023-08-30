@@ -5,6 +5,7 @@ You need your own secret keys from stripe to check cards.
 
 ## Pre-Requirements:
 > A C++ Compiler (MSVC, CLANG AND GCC Recommended)
+
 > Libcurl Library Installed
 
 ## Compile:
