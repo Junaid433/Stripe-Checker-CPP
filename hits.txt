@@ -1,0 +1,6 @@
+[1;32m#HITS -» 4242424242424242|01|27|000 [4.193.81.41]
+Response -» 0$ Payment Completed ✅ [0]
+Reciept -» https://pay.stripe.com/receipts/payment/CAcaFwoVYWNjdF8xMDMyRDgyZVp2S1lsbzJDKMuSzaYGMgYMNRBSG4E6LBbjehheDNSzUMezz21FXc-WISxZQg0DZQFB59NTWEVa5-Ep064yaxYaegu7
+Risk -» normal -» 33 -» authorized
+Country -» US
+Time -» 2.586000's[0m
