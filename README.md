@@ -8,12 +8,16 @@ You need your own secret keys from stripe to check cards.
 
 > Libcurl Library Installed
 
+## Default Password:
+```
+ILOVEHECKER
+```
+
 ## Compile:
   ### Linux:
     gcc -o main main.cpp -lcurl -lstdc++ -pthread
   ### Windows:
-    (Please use Visual Studio in Windows)
-    cl -o main main.cpp -lcurl -lstdc++ -pthread
+    Please use Visual Studio in Windows
     
 ## Configuration:
 ```
