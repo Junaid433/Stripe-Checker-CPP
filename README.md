@@ -45,3 +45,12 @@ If amount is <1 then charge output will be 0$
 
   ### Open issues on github
 
+## Donation:
+
+  BTC: ```35s7bwSiLocbs2wYg7HdsHihNbRSgq4DFi```
+
+  LTC: ```MM8f9Gz3LCMAgavxuuoUtNWRDazsKmycKu```
+
+  USDT [TRC20] : ```TDW1piifbkZe2c3nTDTZHKuJe2LU1NgzQV```
+
+  TRX: ```TChp9kpxSxFuMsytLzhj4FtG74Ad8ggNy3```
