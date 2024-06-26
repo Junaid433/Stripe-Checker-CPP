@@ -39,18 +39,9 @@ If amount is <1 then charge output will be 0$
 
 ## Support:
  
-  [Telegram](https://t.me/fakehecker)
+  [Telegram](https://t.me/fakehecker) -> https://t.me/fakehecker
 
-  [Facebook](https://facebook.com/jnaid.rahman.im)
+  [Facebook](https://facebook.com/jnaid.rahman.im) -> https://facebook.com/jnaid.rahman.im
 
-  Open issues on github
+  ### Open issues on github
 
-## Donation:
-
-  BTC: ```35s7bwSiLocbs2wYg7HdsHihNbRSgq4DFi```
-
-  LTC: ```MM8f9Gz3LCMAgavxuuoUtNWRDazsKmycKu```
-
-  USDT [TRC20] : ```TDW1piifbkZe2c3nTDTZHKuJe2LU1NgzQV```
-
-  TRX: ```TChp9kpxSxFuMsytLzhj4FtG74Ad8ggNy3```
